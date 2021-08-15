@@ -1,6 +1,6 @@
 # LSTM_Stock_Predictor
 
-In this repo, you will find my assignment around LSTM. 
+In this repo, you will find my assignment around LSTM and the csv files to run it.
 
 The btc closing and btc fear and greed csv were cleaned to then build a model around to attempt to predict. There are a few things you can play around with to get different answers that might be more desirable like the 'batch_size' (stick to lower numbers) and 'epochs' (Use at least 10)
 
